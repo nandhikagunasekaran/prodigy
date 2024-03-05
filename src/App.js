@@ -1,10 +1,9 @@
-
 import React from 'react';
-import Guess from './guess';
+import Temp from './temp';
 function App() {
   return (
     <div>
-      <Guess/>
+      <Temp/>
     </div>
   );
 }
